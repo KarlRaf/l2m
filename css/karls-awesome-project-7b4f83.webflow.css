@@ -268,7 +268,7 @@ blockquote {
   bottom: 0px;
   padding: 4px 20px 5px;
   border-radius: 3px;
-  background-color: #ffd334;
+  background-color: #A00500;
   -webkit-transition: all 317ms ease;
   transition: all 317ms ease;
   font-family: Montserrat, sans-serif;
@@ -293,7 +293,7 @@ blockquote {
   margin-left: auto;
   padding-right: 15px;
   padding-left: 15px;
-  border: 3px solid #ffd334;
+  border: 3px solid #A00500;
   background-color: transparent;
   color: #fff;
   font-size: 15px;
@@ -302,7 +302,7 @@ blockquote {
 
 .button.wire:hover {
   border-radius: 2px;
-  background-color: #ffd334;
+  background-color: #A00500;
   color: #242b2e;
 }
 
@@ -315,7 +315,7 @@ blockquote {
 
 .button.wire.black:hover {
   background-color: #242b2e;
-  color: #ffd334;
+  color: #A00500;
 }
 
 .button.wire.black.small {
@@ -376,14 +376,14 @@ blockquote {
   float: none;
   border-top-right-radius: 6px;
   border-bottom-right-radius: 6px;
-  background-color: #ffd333;
+  background-color: #A00500;
 }
 
 .divider.left {
   width: 66%;
   height: 10px;
   margin-left: 0px;
-  background-color: #ffd334;
+  background-color: #A00500;
 }
 
 .divider.sections {
@@ -397,7 +397,7 @@ blockquote {
   margin-right: auto;
   margin-left: auto;
   border-radius: 10px;
-  background-color: #ffd334;
+  background-color: #A00500;
 }
 
 .service-description {
@@ -582,7 +582,7 @@ blockquote {
 
 .nav-link:hover {
   border-bottom-width: 6px;
-  border-bottom-color: #ffd334;
+  border-bottom-color: #A00500;
   opacity: 1;
   color: #fff;
 }
@@ -688,7 +688,7 @@ blockquote {
   padding: 5px;
   float: right;
   clear: right;
-  border: 3px solid #ffd334;
+  border: 3px solid #A00500;
   border-radius: 80px;
   -webkit-transition: all 400ms ease-out;
   transition: all 400ms ease-out;
@@ -700,11 +700,11 @@ blockquote {
 }
 
 .nav-side-link:focus {
-  background-color: #ffd334;
+  background-color: #A00500;
 }
 
 .nav-side-link.w--current {
-  background-color: #ffd334;
+  background-color: #A00500;
   -webkit-transition: background-color 200ms ease;
   transition: background-color 200ms ease;
 }
@@ -750,12 +750,12 @@ blockquote {
   margin-left: 0px;
   padding-right: 2px;
   padding-left: 2px;
-  border-bottom: 2px solid #ffd334;
+  border-bottom: 2px solid #A00500;
 }
 
 .text-link:hover {
   border-bottom-color: #242b2e;
-  color: #ffd334;
+  color: #A00500;
 }
 
 .link-block {
@@ -886,7 +886,7 @@ blockquote {
   padding-right: 10px;
   padding-left: 10px;
   border-radius: 2px;
-  background-color: #ffd334;
+  background-color: #A00500;
   color: #242b2e;
   font-size: 1em;
   line-height: 2.4em;
@@ -991,7 +991,7 @@ blockquote {
   background-color: rgba(22, 23, 23, .29);
   -webkit-transition: all 200ms ease;
   transition: all 200ms ease;
-  color: #ffd334;
+  color: #A00500;
   font-weight: 700;
 }
 
@@ -1139,7 +1139,7 @@ blockquote {
   margin: 5px;
   float: left;
   border-radius: 10px;
-  background-color: #ffd334;
+  background-color: #A00500;
   text-align: right;
 }
 
@@ -1190,7 +1190,7 @@ blockquote {
   right: 0px;
   bottom: 0px;
   display: none;
-  background-color: #ffd334;
+  background-color: #A00500;
 }
 
 .line {
@@ -1208,7 +1208,7 @@ blockquote {
 }
 
 .form-succes {
-  background-color: #ffd334;
+  background-color: #A00500;
   color: #242121;
 }
 
@@ -1233,7 +1233,7 @@ blockquote {
 }
 
 .form-field:hover {
-  border-color: #ffd334;
+  border-color: #A00500;
   background-color: hsla(0, 0%, 100%, .8);
   opacity: 1;
   color: #364146;
@@ -1268,7 +1268,7 @@ blockquote {
 
 .social-link:hover {
   opacity: 1;
-  color: #ffd334;
+  color: #A00500;
 }
 
 .slider {
@@ -1602,7 +1602,7 @@ html.w-mod-js *[data-ix="arrow-icon"] {
     color: #fff;
   }
   .menu-button {
-    color: #ffd334;
+    color: #A00500;
     font-size: 32px;
   }
   .menu-button.w--open {
@@ -1620,7 +1620,7 @@ html.w-mod-js *[data-ix="arrow-icon"] {
     padding-top: 80px;
     padding-right: 20px;
     padding-left: 20px;
-    background-color: #ffd334;
+    background-color: #A00500;
     color: #242121;
   }
   .title-block {
@@ -1676,7 +1676,7 @@ html.w-mod-js *[data-ix="arrow-icon"] {
     right: 0px;
     padding-right: 10px;
     padding-left: 10px;
-    background-color: #ffd334;
+    background-color: #A00500;
     -webkit-transform-origin: 100% 50%;
     -ms-transform-origin: 100% 50%;
     transform-origin: 100% 50%;
@@ -2093,7 +2093,7 @@ html.w-mod-js *[data-ix="arrow-icon"] {
   }
   .divider {
     display: block;
-    background-color: #ffd334;
+    background-color: #A00500;
   }
   .divider.left {
     margin-left: 0px;
@@ -2147,7 +2147,7 @@ html.w-mod-js *[data-ix="arrow-icon"] {
     margin-top: 0px;
   }
   .nav-link {
-    color: #ffd334;
+    color: #A00500;
     font-size: 33px;
     line-height: 18px;
   }
@@ -2173,7 +2173,7 @@ html.w-mod-js *[data-ix="arrow-icon"] {
     background-color: transparent;
   }
   .menu-button {
-    color: #ffd334;
+    color: #A00500;
     font-size: 24px;
   }
   .menu-button.w--open {
